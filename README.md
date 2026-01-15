@@ -12,36 +12,57 @@ manutenível e bem documentado.
 
 ## 🚀 Tecnologias e Ferramentas
 
-### Linguagens
+### Linguagens de Programação
 - PHP
 - Java
 - JavaScript
+- TypeScript
+- C
+- C++
+- C#
 
 ### Frameworks e Bibliotecas
 - Laravel
 - Spring Boot
 - Node.js
+- React
+- Next.js
 - Bootstrap
 
 ### Frontend
 - HTML
 - CSS
 - JavaScript
+- TypeScript
+- React
+- Next.js
 
-### Banco de Dados
+### Backend
+- PHP (Laravel)
+- Java (Spring Boot)
+- Node.js
+
+### Bancos de Dados
 - MySQL
 - PostgreSQL
+- SQL Server
+- Oracle
 
-### DevOps / Infraestrutura
+### DevOps, Infraestrutura e Deploy
 - Docker
 - Git
 - GitHub
 - Vercel
 - Render
+- Microsoft Server
 
-### Ambiente de Desenvolvimento
+### Business Intelligence / Dados
+- Power BI
+
+### Ambientes de Desenvolvimento
 - Laragon
 - XAMPP
+
 
 ---
 
